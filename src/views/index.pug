@@ -1,0 +1,41 @@
+doctype html
+html(lang="en")
+  head
+    meta(charset="UTF-8")
+    meta(name="viewport", content="width=device-width, initial-scale=1.0")
+    title= title
+    link(rel="stylesheet", href="css/styles.css")
+    link(rel="stylesheet", href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css")
+  body
+    .container
+      header
+        h1 SHL Assessment Recommendation Engine
+        p Enter a job description or URL to get assessment recommendations
+      
+      .search-container
+        form#search-form
+          .input-group
+            textarea#query(placeholder="Enter job description text...", rows="5")
+          .input-group
+            input#url(type="text", placeholder="Or enter job description URL...")
+          button(type="submit") Get Recommendations
+      
+      .results-container
+        #spinner.spinner.hidden
+          i.fas.fa-spinner.fa-spin
+        #results.hidden
+          h2 Recommended Assessments
+          table#recommendations-table
+            thead
+              tr
+                th Assessment Name
+                th Remote Testing
+                th Adaptive/IRT
+                th Duration
+                th Test Type
+            tbody
+        
+      footer
+        p SHL Assessment Recommendation Engine © 2025
+    
+    script(src="js/app.js")

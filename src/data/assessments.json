@@ -1,0 +1,122 @@
+[
+  {
+    "name": "SHL Verify Interactive Verbal Reasoning Assessment",
+    "url": "https://www.shl.com/products/verify-interactive-verbal-reasoning/",
+    "remoteTestingSupport": "Yes",
+    "adaptiveSupport": "Yes",
+    "duration": "25 minutes",
+    "testType": "Cognitive Ability"
+  },
+  {
+    "name": "SHL Verify Numerical Reasoning Assessment",
+    "url": "https://www.shl.com/products/verify-numerical-reasoning/",
+    "remoteTestingSupport": "Yes",
+    "adaptiveSupport": "Yes",
+    "duration": "35 minutes",
+    "testType": "Cognitive Ability"
+  },
+  {
+    "name": "SHL Personality Assessment",
+    "url": "https://www.shl.com/products/personality-assessment/",
+    "remoteTestingSupport": "Yes",
+    "adaptiveSupport": "No",
+    "duration": "30 minutes",
+    "testType": "Personality"
+  },
+  {
+    "name": "SHL Coding Pro Assessment",
+    "url": "https://www.shl.com/products/coding-pro/",
+    "remoteTestingSupport": "Yes",
+    "adaptiveSupport": "No",
+    "duration": "60 minutes",
+    "testType": "Technical Skills"
+  },
+  {
+    "name": "SHL Leadership Assessment",
+    "url": "https://www.shl.com/products/leadership-assessment/",
+    "remoteTestingSupport": "Yes",
+    "adaptiveSupport": "No",
+    "duration": "45 minutes",
+    "testType": "Leadership"
+  },
+  {
+    "name": "SHL Sales Assessment",
+    "url": "https://www.shl.com/products/sales-assessment/",
+    "remoteTestingSupport": "Yes",
+    "adaptiveSupport": "No",
+    "duration": "40 minutes",
+    "testType": "Sales Skills"
+  },
+  {
+    "name": "SHL Data Analysis Assessment",
+    "url": "https://www.shl.com/products/data-analysis-assessment/",
+    "remoteTestingSupport": "Yes",
+    "adaptiveSupport": "Yes",
+    "duration": "50 minutes",
+    "testType": "Technical Skills"
+  },
+  {
+    "name": "SHL Communication Skills Assessment",
+    "url": "https://www.shl.com/products/communication-skills/",
+    "remoteTestingSupport": "Yes",
+    "adaptiveSupport": "No",
+    "duration": "30 minutes",
+    "testType": "Soft Skills"
+  },
+  {
+    "name": "SHL Problem-Solving Assessment",
+    "url": "https://www.shl.com/products/problem-solving/",
+    "remoteTestingSupport": "Yes",
+    "adaptiveSupport": "Yes",
+    "duration": "25 minutes",
+    "testType": "Cognitive Ability"
+  },
+  {
+    "name": "SHL Customer Service Assessment",
+    "url": "https://www.shl.com/products/customer-service/",
+    "remoteTestingSupport": "Yes",
+    "adaptiveSupport": "No",
+    "duration": "35 minutes",
+    "testType": "Soft Skills"
+  },
+  {
+    "name": "SHL Project Management Assessment",
+    "url": "https://www.shl.com/products/project-management/",
+    "remoteTestingSupport": "Yes",
+    "adaptiveSupport": "No",
+    "duration": "45 minutes",
+    "testType": "Project Management"
+  },
+  {
+    "name": "SHL JavaScript Coding Assessment",
+    "url": "https://www.shl.com/products/javascript-assessment/",
+    "remoteTestingSupport": "Yes",
+    "adaptiveSupport": "Yes",
+    "duration": "60 minutes",
+    "testType": "Technical Skills"
+  },
+  {
+    "name": "SHL Python Coding Assessment",
+    "url": "https://www.shl.com/products/python-assessment/",
+    "remoteTestingSupport": "Yes",
+    "adaptiveSupport": "Yes",
+    "duration": "60 minutes",
+    "testType": "Technical Skills"
+  },
+  {
+    "name": "SHL Java Programming Assessment",
+    "url": "https://www.shl.com/products/java-assessment/",
+    "remoteTestingSupport": "Yes",
+    "adaptiveSupport": "Yes",
+    "duration": "55 minutes",
+    "testType": "Technical Skills"
+  },
+  {
+    "name": "SHL Critical Thinking Assessment",
+    "url": "https://www.shl.com/products/critical-thinking/",
+    "remoteTestingSupport": "Yes",
+    "adaptiveSupport": "No",
+    "duration": "35 minutes",
+    "testType": "Cognitive Ability"
+  }
+]
