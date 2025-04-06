@@ -117,17 +117,23 @@ The application will be available at http://localhost:8000
 
 ### Deploying to Render
 
-# Install Render CLI
+1. Install Render CLI:
 
+```bash
 npm install -g @render/cli
+```
 
-# Login to Render
+2. Login to Render:
 
+```bash
 render login
+```
 
-# Deploy your application
+3. Deploy the application:
 
+```bash
 render deploy
+```
 
 ## Evaluating Recommendation Quality
 
