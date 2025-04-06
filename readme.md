@@ -77,7 +77,7 @@ npm run crawl
 npm run dev
 ```
 
-The application will be available at http://localhost:3000
+The application will be available at http://localhost:8000
 
 ## API Usage
 
@@ -115,58 +115,19 @@ The application will be available at http://localhost:3000
 
 ## Deployment
 
-### Deploying to Vercel
+### Deploying to Render
 
-1. Install Vercel CLI:
+# Install Render CLI
 
-```bash
-npm install -g vercel
-```
+npm install -g @render/cli
 
-2. Login to Vercel:
+# Login to Render
 
-```bash
-vercel login
-```
+render login
 
-3. Deploy the application:
+# Deploy your application
 
-```bash
-vercel
-```
-
-4. For production deployment:
-
-```bash
-vercel --prod
-```
-
-### Deploying to Heroku
-
-1. Install Heroku CLI and login:
-
-```bash
-npm install -g heroku
-heroku login
-```
-
-2. Create a Heroku app:
-
-```bash
-heroku create shl-recommendation-engine
-```
-
-3. Deploy to Heroku:
-
-```bash
-git push heroku main
-```
-
-4. Open the application:
-
-```bash
-heroku open
-```
+render deploy
 
 ## Evaluating Recommendation Quality
 
